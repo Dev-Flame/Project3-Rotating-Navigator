@@ -4,4 +4,4 @@ Cool rotating element to reveal the navigator.
 
 Will definitly be using this in a future project.
 
-[Live Demo](url)
+[Live Demo](https://dev-flame.github.io/Project3-Rotating-Navigator/)
